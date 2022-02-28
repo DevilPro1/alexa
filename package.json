@@ -1,5 +1,5 @@
 {
-  "name": "@bugsounet/alexa",
+  "name": "@devilpro1/alexa",
   "version": "0.1.0",
   "description": "node alexa library",
   "main": "index.js",
@@ -9,16 +9,16 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bugsounet/alexa.git"
+    "url": "git+https://github.com/devilpro1/alexa.git"
   },
   "author": {
-    "name": "bugsounet"
+    "name": "devilpro1"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bugsounet/alexa/issues"
+    "url": "https://github.com/devilpro1/alexa/issues"
   },
-  "homepage": "https://github.com/bugsounet/alexa",
+  "homepage": "https://github.com/devilpro1/alexa",
   "dependencies": {
     "xhr2": "^0.2.0"
   }
