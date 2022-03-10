@@ -1,6 +1,6 @@
 {
   "name": "@devilpro1/alexa",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "node alexa library",
   "main": "index.js",
   "keywords": [
@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/devilpro1/alexa",
   "dependencies": {
-    "xhr2": "^0.2.0"
+    "xhr2": "^0.2.1"
   }
 }
